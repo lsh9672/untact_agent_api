@@ -1,0 +1,5 @@
+#cache
+__pycache__/
+
+#virtualenv
+venv10/

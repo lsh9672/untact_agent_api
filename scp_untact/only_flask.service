@@ -1,0 +1,12 @@
+[Unit]
+Description=flask daemon
+After=network.target
+
+[Service]
+User=soda
+Group=soda
+WorkingDirectory=/home/soda/.untect_center/flask_api
+ExecStart=/usr/bin/python3 main.py
+
+[Install]
+WantedBy=multi-user.target
