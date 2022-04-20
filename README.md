@@ -27,11 +27,11 @@
 
 ## 구성도 및  DB 테이블
 
-(구성도)
+#### 구성도
 
 ![image](https://user-images.githubusercontent.com/56991244/164122445-32e78581-aa3b-4a83-b1c7-aa69d2270e4e.png)
 
-(DB 테이블)
+#### DB 테이블
 
 ![image](https://user-images.githubusercontent.com/56991244/164122475-590b47b3-4da7-4d3c-b9c2-625f00943c2e.png)
 
