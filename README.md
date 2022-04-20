@@ -28,14 +28,16 @@
 ### 결과화면
 (이 api를 이용한 실제 서비스 화면)
 
-결과1 
+##### 결과1 
 
 ![image](https://user-images.githubusercontent.com/56991244/164122526-f4872454-69d4-4370-903f-d8c6cb0bf87d.png)
 
-결과2 - 장비상태 확인
+##### 결과2 - 장비상태 확인
+
 ![image](https://user-images.githubusercontent.com/56991244/164122611-37318e0d-6bd3-4b2a-a962-ba654f236e8d.png)
 
-결과3 - 원격으로 주피터랩에 접속
+##### 결과3 - 원격으로 주피터랩에 접속
+
 ![image](https://user-images.githubusercontent.com/56991244/164122675-3aaed17b-de8d-479b-acec-81c4ef0c2056.png)
 
 
