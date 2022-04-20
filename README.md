@@ -1,5 +1,7 @@
 # 4-2 현장실습 백엔드 실무 경험 (2021.09.01 ~ 2021.12.31)
 
+## 각 파일들
+
 ### admin_untact
 
 - 장비들(라즈베리파이등의 교육용장비)을 관리하기 위한 api
@@ -19,24 +21,29 @@
 - 장비 접속유무 뿐만 아니라 LMS로 부터 접속하고자 하는 장비번호와 장비종류를 받아서 해당 장비로 리다이렉션 시켜주는 역할을 함.
 
 
-### 구성도
+## 구성도 및  DB 테이블
+
+(구성도)
+
 ![image](https://user-images.githubusercontent.com/56991244/164122445-32e78581-aa3b-4a83-b1c7-aa69d2270e4e.png)
 
-### DB 테이블
+(DB 테이블)
+
 ![image](https://user-images.githubusercontent.com/56991244/164122475-590b47b3-4da7-4d3c-b9c2-625f00943c2e.png)
 
-### 결과화면
+## 결과화면
+
 (이 api를 이용한 실제 서비스 화면)
 
-##### 결과1 - 장비상태 확인 이전 화면(이부분은 해당 api를 사용한 것은 아님)
+#### 결과1 - 장비상태 확인 이전 화면(이부분은 해당 api를 사용한 것은 아님)
 
 ![image](https://user-images.githubusercontent.com/56991244/164122526-f4872454-69d4-4370-903f-d8c6cb0bf87d.png)
 
-##### 결과2 - 장비상태 확인
+#### 결과2 - 장비상태 확인
 
 ![image](https://user-images.githubusercontent.com/56991244/164122611-37318e0d-6bd3-4b2a-a962-ba654f236e8d.png)
 
-##### 결과3 - 원격으로 주피터랩에 접속
+#### 결과3 - 원격으로 주피터랩에 접속
 
 ![image](https://user-images.githubusercontent.com/56991244/164122675-3aaed17b-de8d-479b-acec-81c4ef0c2056.png)
 
